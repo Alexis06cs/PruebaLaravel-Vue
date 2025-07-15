@@ -102,11 +102,11 @@ VITE_API_URL=http://127.0.0.1:8000/api
 
 ```bash
 npm install
-npm run dev
+npm run serve
 ```
 
 El frontend estará disponible en:  
-`http://localhost:5173`
+`http://localhost:8080`
 
 ---
 
