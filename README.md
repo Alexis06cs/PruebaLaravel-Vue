@@ -1,4 +1,4 @@
-# 🎬 Prueba Técnica - Sistema de Gestión de Películas y Turnos
+<img width="2882" height="1516" alt="image" src="https://github.com/user-attachments/assets/8f448ef9-fc23-47fe-9ec2-9c3f9dbd0f0b" /># 🎬 Prueba Técnica - Sistema de Gestión de Películas y Turnos
 
 Este proyecto es una aplicación web full stack construida con **Laravel 12** como backend y **Vue 3 + TailwindCSS** en el frontend. Permite gestionar un listado de películas y sus turnos de proyección de forma sencilla y moderna.
 
@@ -129,7 +129,14 @@ PruebaLaravel-Vue/
 
 ## 📸 Capturas (opcional)
 
-Agrega aquí capturas de las pantallas principales si deseas.
+<img width="2854" height="821" alt="image" src="https://github.com/user-attachments/assets/eb6f82bf-943a-43bd-b52c-222118a1e7c4" />
+<img width="2882" height="1516" alt="image" src="https://github.com/user-attachments/assets/776a20e5-2289-4662-9c81-3e9e3f419681" />
+<img width="2882" height="1516" alt="image" src="https://github.com/user-attachments/assets/b7cefabd-d448-4113-8f01-70f010d54c3d" />
+<img width="2882" height="1516" alt="image" src="https://github.com/user-attachments/assets/29a2119c-a540-410e-bd20-84dcfba7296b" />
+<img width="2882" height="1516" alt="image" src="https://github.com/user-attachments/assets/7f4fc8f4-aa0d-48e7-b6a7-eda5670b55af" />
+
+
+
 
 ---
 
