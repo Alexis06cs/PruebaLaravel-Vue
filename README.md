@@ -1,4 +1,4 @@
-# 🎬 Prueba Técnica - Sistema de Gestión de Películas y Turnos
+# 🎬 Prueba Técnica - Sistema de Gestión de Películas y Turno
 
 Este proyecto es una aplicación web full stack construida con **Laravel 12** como backend y **Vue 3 + TailwindCSS** en el frontend. Permite gestionar un listado de películas y sus turnos de proyección de forma sencilla y moderna.
 
