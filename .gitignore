@@ -1,0 +1,27 @@
+# =====================================
+# Laravel (Backend)
+# =====================================
+/peliculas-turnos-backend/vendor/
+/peliculas-turnos-backend/node_modules/
+peliculas-turnos-backend/.env
+peliculas-turnos-backend/.env.*
+peliculas-turnos-backend/storage/*.key
+peliculas-turnos-backend/storage/oauth-private.key
+peliculas-turnos-backend/storage/oauth-public.key
+peliculas-turnos-backend/storage/logs/*
+peliculas-turnos-backend/public/storage
+peliculas-turnos-backend/.phpunit.result.cache
+peliculas-turnos-backend/.idea/
+peliculas-turnos-backend/.vscode/
+peliculas-turnos-backend/.DS_Store
+
+# =====================================
+# Vue (Frontend)
+# =====================================
+/peliculas-turnos-frontend/node_modules/
+/peliculas-turnos-frontend/dist/
+/peliculas-turnos-frontend/.env
+peliculas-turnos-frontend/.env.*
+peliculas-turnos-frontend/.DS_Store
+peliculas-turnos-frontend/.idea/
+peliculas-turnos-frontend/.vscode/
